@@ -1,0 +1,19 @@
+{
+    "name": "php/training",
+    "description": "training",
+    "type": "projet",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "IMAHRAIN MOHAMMED",
+            "email": "mimahrain@sqli.com"
+        }
+    ],
+    "require": {
+
+    }
+}
