@@ -3,8 +3,8 @@
 My project is a simple php mvc that provides the MVC Design Pattern . 
 </p>
 
-<p>If You want to run the project 
-please follow these stepes :
+<p>If You want to run the project in your local
+please follow these steps :
 </p>
 <ul>
 <li>Run <code>docker-compose up -d --build</code></li>
